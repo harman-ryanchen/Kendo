@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KenDoApplication</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--menu item-->
+    <string name="menu_item_news">新闻</string>
+    <string name="menu_item_course">教程</string>
+    <string name="menu_item_teachers">师范</string>
+    <string name="menu_item_kendo_place">剑馆</string>
+    <string name="menu_item_kendo_picture">壁纸</string>
+</resources>
